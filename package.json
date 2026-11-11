@@ -1,0 +1,25 @@
+{
+  "name": "javalab-diagnostico",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Sistema de evaluación diagnóstica y panel docente para el programa de Java de Proyección Social.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.119.0",
+    "lucide-react": "^1.71.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-router-dom": "^7.18.5"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.5",
+    "@vitejs/plugin-react": "^6.3.0",
+    "tailwindcss": "^4.3.5",
+    "vite": "^8.3.7"
+  }
+}
